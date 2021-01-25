@@ -1,12 +1,6 @@
 package queuedemo;
 
-/**
- * Created with IntelliJ IDEA.
- * Description:
- * User: GaoBo
- * Date: 2021-01-24
- * Time: 10:47
- */
+
 public class MyCircularQueue {
 
     private int front;
